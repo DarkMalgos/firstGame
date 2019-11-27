@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{C5E528BF-07A2-5A65-1DC1-557AFBD7DEA6}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/viking arena/barilController.cs">
+    <Files>
+      <File FileName="Assets/PlayerController.cs" Line="35" Column="78" />
+      <File FileName="Assets/ennemisController.cs" Line="19" Column="6" />
+      <File FileName="Assets/JumpTrigger.cs" Line="15" Column="1" />
+      <File FileName="Assets/EnemySpawnerScript.cs" Line="12" Column="29" />
+      <File FileName="Assets/deathZoneScript.cs" Line="17" Column="2" />
+      <File FileName="Assets/viking arena/barilController.cs" Line="35" Column="69" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Cours majeure 2019" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="viking arena" expanded="True">
+                <Node name="barilController.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="e1865eb7-de24-45c0-a4a9-020f9b2d728f" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
